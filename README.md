@@ -1,0 +1,2 @@
+# kaitou-kid
+"Phantom Thief"
